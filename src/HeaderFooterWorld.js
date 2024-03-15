@@ -1,3 +1,4 @@
+// Default export
 function Header(){
     return <h1>This is the Header Part</h1>
 }
@@ -10,4 +11,5 @@ export function Footer(){
     return <h1>This is the Footer Part</h1>
 }
 
+// Default export
 export default Header;
